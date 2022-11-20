@@ -9,7 +9,7 @@ const Navbar = () => {
         <NavMenu>
 
           <NavLink to="/about" activeStyle>
-            <button class="aboutbutton">
+            <button class="button2">
             About Me
             </button>
           </NavLink>
